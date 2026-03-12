@@ -56,3 +56,11 @@ void insertionSort()
     }
 }
 
+void display()
+{
+    cout << endl; // Output baris kosong
+    cout << "\n================================" << endl;
+    cout << "\nElement Array yang telah tersusun" << endl; // Output ke layar
+    cout << "\n================================" << endl;  // Output ke layar
+
+    
